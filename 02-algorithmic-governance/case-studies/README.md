@@ -48,7 +48,7 @@ Each case study includes:
 
 ## 📊 Case Study Index
 
-*(To be populated with specific cases)*
+- [CNIL vs Google/YouTube Cookie Consent (2022)](cnil-google-cookie-consent.md) — refusal friction invalidates consent; €150m fine; first-layer symmetry requirement.
 
 ### Template for New Cases
 ```markdown
