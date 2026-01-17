@@ -1,0 +1,32 @@
+# Sources
+
+| **Topic** | **Source Name** | **Brief Explanation** | **Source Link** |
+|-----------|-----------------|------------------------|-----------------|
+| **Attack Timeline & Attribution** | PurpleSec Breach Report | Detailed timeline of Conti attack on Costa Rica, including initial infiltration and affected institutions | https://purplesec.us/breach-report/conti-ransomware-attack/ |
+| | Krebs on Security Investigation | Investigative analysis of Conti's motives and UNC1756 affiliate involvement in Costa Rica attack | https://krebsonsecurity.com/2022/05/costa-rica-may-be-pawn-in-conti-ransomware-groups-bid-to-rebrand-evade-sanctions/ |
+| | Global Initiative Analysis | Comprehensive study of Conti ransomware group structure and operations, including Costa Rica incident | https://globalinitiative.net/analysis/conti-ransomware-group-cybercrime/ |
+| **Technical Attack Vectors** | CISA Advisory | Official US government technical analysis of Conti ransomware tactics, techniques, and procedures | https://media.defense.gov/2021/Sep/22/2002859507/-1/-1/0/CSA_Conti_Ransomware_20220309.PDF |
+| | PRODAFT Threat Intelligence | In-depth technical analysis of Conti group infrastructure and attack methodologies | https://www.prodaft.com/report/conti-ransomware-group-in-depth-analysis |
+| | Heimdal Security Report | Technical details on VPN credential compromise and lateral movement in Costa Rica attack | https://heimdalsecurity.com/blog/check-out-these-new-details-on-the-costa-rica-government-attack-by-conti-ransomware/ |
+| **Economic Impact & GDP Loss** | World Bank Cybersecurity Economics | Quantitative analysis of 2.4% GDP loss and $1.6B total economic impact from Costa Rica attacks | https://documents1.worldbank.org/curated/en/099011925184519084/pdf/P17876915bd69a0061b2f2166697a1c7793.pdf |
+| | IMF Article IV Consultation | Official IMF assessment of economic disruption, including $30-38M daily losses and system recovery timelines | https://www.elibrary.imf.org/view/journals/002/2022/345/article-A001-en.xml |
+| | World Bank Economic Performance Study | Analysis of cybersecurity's role in national economic performance with Costa Rica case study | https://documents1.worldbank.org/curated/en/099092324164526526/pdf/P178769189c7360111ac1f1185e04824dec.pdf |
+| **Second Attack (Hive Ransomware)** | Krebs on Security Follow-up | Investigation linking Hive attack to Conti rebranding strategy and Russian cybercriminal networks | https://krebsonsecurity.com/2022/05/costa-rica-may-be-pawn-in-conti-ransomware-groups-bid-to-rebrand-evade-sanctions/ |
+| | Americas Quarterly Policy Brief | Analysis of Hive attack on CCSS and six-month recovery timeline for EDUS health system | https://www.americasquarterly.org/wp-content/uploads/2023/07/Americas-Quarterly_Cybersecurity.pdf |
+| | Lawfare International Assistance | Examination of international response to second attack and recovery coordination challenges | https://www.lawfaremedia.org/article/role-international-assistance-cyber-incident-response |
+| **International Response & Assistance** | Wired Technology Analysis | Coverage of US $15M bounty and international technical assistance from Israel, Spain, and Microsoft | https://www.wired.com/story/costa-rica-ransomware-conti/ |
+| | Americas Quarterly Policy Report | Detailed account of international cooperation and recovery efforts following state of emergency declaration | https://www.americasquarterly.org/wp-content/uploads/2023/07/Americas-Quarterly_Cybersecurity.pdf |
+| | Chatham House Framework | Strategic framework for countering cybercrime with Costa Rica case as exemplar for developing nations | https://www.chathamhouse.org/sites/default/files/2024-07/2024-07-11-strategic-approach-countering-cybercrime-framework-hakmeh-sa |
+| **Security by Design Critique** | University of Galway Case Study | Academic defense framework analysis highlighting lack of Security by Design in Costa Rica's infrastructure | https://research.universityofgalway.ie/en/publications/ransomware-and-costa-ricas-national-emergency-a-defense-framework-3/ |
+| | SAGE Academic Journal | Peer-reviewed analysis of design failures allowing lateral movement from single user to critical servers | https://journals.sagepub.com/doi/10.1177/20438869221149042 |
+| | Oxford University Press | Study on psychological and operational impacts of inadequate security architecture in public sector | https://academic.oup.com/cybersecurity/article/10/1/tyae013/7723878 |
+| **Information Security Principles** | Damon McCoy Research | Business analysis of Conti operations demonstrating violations of confidentiality and availability principles | https://damonmccoy.com/papers/Ransomware_eCrime22.pdf |
+| | arXiv Case Study | Technical case study on Conti group illustrating accountability principle failures in Costa Rica attack | https://www.arxiv.org/pdf/2411.02548v1.pdf |
+| | Taylor & Francis Global Crime | Analysis of ransomware group structure showing systematic violation of information security principles | https://www.tandfonline.com/doi/full/10.1080/17440572.2025.2534387 |
+| **Policy & Governance Gaps** | World Bank Latin America Report | Comprehensive assessment of cybersecurity policy deficiencies and institutional gaps in Costa Rica | https://blogs.worldbank.org/en/latinamerica/seguridad-cibernetica-en-america-latina-y-el-caribe |
+| | World Economic Forum Outlook | Global cybersecurity outlook highlighting Costa Rica's lack of dedicated cybersecurity institution | https://reports.weforum.org/docs/WEF_Global_Cybersecurity_Outlook_2025.pdf |
+| | Americas Quarterly Analysis | Policy analysis of governance failures and communication breakdowns during crisis response | https://www.americasquarterly.org/wp-content/uploads/2023/07/Americas-Quarterly_Cybersecurity.pdf |
+| **Regional/Global Context** | DevDiscourse Economic Analysis | Examination of Costa Rica attack as exemplar of emerging market vulnerability to cyber threats | https://www.devdiscourse.com/article/technology/3205077-emerging-markets-in-the-crosshairs-why-cybersecurity-is-an-economic-impe |
+| | Global Initiative Transnational Crime | Study positioning Costa Rica incident within broader pattern of Global South cyber vulnerability | https://globalinitiative.net/analysis/conti-ransomware-group-cybercrime/ |
+| | World Bank Regional Study | Comparative analysis of cybersecurity economics across Latin American and Caribbean nations | https://documents1.worldbank.org/curated/en/099011925184519084/pdf/P17876915bd69a0061b2f2166697a1c7793.pdf |
+
