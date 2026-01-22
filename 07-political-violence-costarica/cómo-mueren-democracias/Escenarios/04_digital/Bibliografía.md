@@ -1,0 +1,9 @@
+### 4.1 Autoritarismo Digital: Manipulación, Vigilancia y Control Narrativo
+
+| Autor(es)                               | Título                                                                                         | Publicación                                  | Año  | DOI/URL                                          |
+| --------------------------------------- | ---------------------------------------------------------------------------------------------- | -------------------------------------------- | ---- | ------------------------------------------------ |
+| Maerz, Seraphine F.                     | How Practices of Digital Authoritarianism Harm Democracy                                       | Journal of Democracy, Vol. 36, No. 4         | 2025 | https://doi.org/10.1353/jod.2025.0019            |
+| Jones, Marc Owen                        | Digital Authoritarianism in the Middle East: Deception, Disinformation and Social Media        | Oxford University Press                      | 2022 | ISBN: 9780197636633                              |
+| Deibert, Ronald J.                      | Reset: Reclaiming the Internet for Civil Society                                               | Signal Press                                 | 2024 | ISBN: 9781634314800                              |
+| Ross, R. M.; Rand, D. G.; Pennycook, G. | Beyond “fake news”: Deepening our understanding of why people believe and share misinformation | Judgment and Decision Making, Vol. 16, No. 5 | 2021 | https://journal.sjdm.org/21/210512/jdm210512.pdf |
+| Edgell, Amanda B. et al.                | Disinformation and Episodes of Regime Transformation                                           | Digital Society Project                      | 2023 | https://www.ssrn.com/abstract=4569010            |

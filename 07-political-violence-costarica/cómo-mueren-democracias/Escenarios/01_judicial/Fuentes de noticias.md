@@ -1,0 +1,13 @@
+## ESCENARIO 1: INDEPENDENCIA JUDICIAL
+
+**Discurso del líder:** "El sistema judicial no les sirve a ustedes, el sistema judicial lo capturaron para servirle a intereses mezquinos de una élite que quiere seguir ordeñando al pueblo." Fuente: "Presidente de Costa Rica encabeza marcha contra fiscal que lo investiga | AFP"
+
+**Lo que afirman:** "El verdadero peligro para la democracia... es pensar es insistir que todo tiene que seguir igual para el beneficio de los mismos de siempre es decir que las instituciones son sagradas y que no deben cambiar para adaptarse al cambio de los tiempos y dar mejor servicio a ustedes." Fuente: "Rodrigo Chaves arremete contra 'élite' : "Se creyeron amos y señores de este país durante 75 años""
+
+**Intención real (oculta):** "Chaves no sólo ha mantenido su popular discurso “anti casta” frente a los partidos políticos tradicionales... sino que, jugando en el filo de la navaja, también lo ha extendido hacia las instituciones básicas de la democracia liberal costarricense... aspirando a unificar los distintos poderes del Estado bajo su égida, es decir, la puerta al autoritarismo." Fuente: "La paradójica popularidad de Rodrigo Chaves (Parte 2) - SURCOS"
+
+**Cómo funciona la negación plausible:** "Lo que estamos buscando es que el poder judicial sienta y vea que la gente no está conforme con su desempeño y que solo ellos pueden arreglar las cosas desde adentro y que el fiscal general no merece estar ahí por mentiroso porque no le rinde cuentas a la gente." Fuente: "Presidente de Costa Rica encabeza marcha contra fiscal que lo investiga | AFP"
+
+**El resultado (consecuencias del discurso violento):** "El Ministerio de Hacienda se negó a habilitar... la ejecución de ¢8.687,88 millones incluidos en el Presupuesto Nacional 2026 para el Organismo de Investigación Judicial (OIJ) y el Ministerio Público, pese a que dichos fondos fueron aprobados por la Asamblea Legislativa... La decisión tomada por Hacienda genera... un 'impacto directo y demoledor' en los planes de trabajo del OIJ y el Ministerio Público." Fuente: "Hacienda frena ejecución de fondos para el OIJ y Ministerio Público en primer trimestre de 2026 pese a aval legislativo | La Nación"
+
+"El Poder Judicial está sometido a fuertes ataques políticos, un hecho sin precedente en la historia republicana del país. Esta edición documenta constantes arremetidas por parte de miembros de otros poderes de la República a su legitimidad e independencia." Fuente: "Informe Estado de la Justicia 2025 - Sinopsis"

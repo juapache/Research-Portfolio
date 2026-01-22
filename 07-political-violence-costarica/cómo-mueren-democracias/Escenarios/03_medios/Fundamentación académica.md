@@ -1,0 +1,20 @@
+## ESCENARIO 3: SILENCIAMIENTO DE MEDIOS
+
+**¿Por qué ocurre?** El silenciamiento ocurre porque la prensa independiente actúa como un mecanismo de control ("watchdog") que expone la corrupción y cuestiona la narrativa oficial. Para los líderes con tendencias autoritarias o populistas, la prensa crítica es vista como una subversión de las élites contra la "voluntad del pueblo" (Schmidt, 2022). Por ello, los gobiernos buscan restringir el escrutinio crítico para proteger su acceso a recursos públicos y consolidar el poder sin rendición de cuentas, un fenómeno descrito teóricamente como "captura de medios" (MDIF, 2019). Además, bajo la lógica del "autoritarismo sigiloso" (_stealth authoritarianism_), los líderes utilizan mecanismos legales y económicos para reprimir la disidencia porque la represión abierta es costosa y daña la legitimidad internacional (Varol, 2015).
+
+**Mecanismo específico:** En lugar de la censura directa, se utilizan métodos de "captura de medios" y presión económica. Los mecanismos clave incluyen:
+
+- **Manipulación de publicidad oficial:** El uso de fondos estatales (publicidad) para premiar a medios leales y castigar a los críticos, privando a los medios independientes de ingresos vitales y distorsionando el mercado (MDIF, 2019; van Lit & van Ham, 2025).
+- **Captura regulatoria:** El gobierno toma el control de los organismos reguladores para manipular la asignación de licencias y frecuencias en favor de aliados (MDIF, 2019).
+- **Guerra legal (Lawfare):** El uso de demandas por difamación o auditorías fiscales selectivas para intimidar a periodistas y aumentar el costo de la crítica (Varol, 2015).
+- **Deslegitimación retórica:** Los líderes populistas etiquetan a los medios establecidos como "noticias falsas" (_fake news_) o "enemigos del pueblo" para desacreditar su autoridad epistémica (Hameleers, 2022; Nielsen, 2020).
+
+**Intención real:** El objetivo es lograr un monopolio narrativo y eliminar la rendición de cuentas gubernamental. Al capturar o silenciar a los medios, el ejecutivo busca crear una situación en la que las políticas y leyes gubernamentales ya no reciban un escrutinio crítico en la esfera pública (MDIF, 2019). Esto permite a los populistas enmarcar el debate político sin interferencias, difundiendo mensajes simples y emotivos que condenan a las élites y legitiman su propia agenda sin oposición efectiva (Schmidt, 2022).
+
+**Lo que genera en la gente:** Esta estrategia fomenta un "antagonismo epistémico" y una crisis de verdad. La ciudadanía, influenciada por la retórica populista, comienza a percibir a los medios tradicionales y a los expertos como parte de una élite corrupta y deshonesta (Hameleers, 2022). Esto lleva a la formación de burbujas informativas o "cámaras de eco", donde los ciudadanos solo consumen información que confirma sus sesgos anti-sistema y desconfían de cualquier evidencia empírica que contradiga su visión del mundo (Hameleers, 2022; Schmidt, 2022). Nielsen (2020) describe esto como una "crisis epistémica" donde la emoción triunfa sobre la razón y los hechos sociales son negados o suspendidos.
+
+**Consecuencias:**
+
+- **Imposibilidad de deliberación democrática:** Sin información neutral, la democracia se deteriora hacia una "democracia iliberal" o un régimen híbrido, ya que se eliminan los controles y equilibrios esenciales (Lührmann & Lindberg, 2019).
+- **Gobernanza sin rendición de cuentas:** La captura de medios elimina cualquier forma de responsabilidad gubernamental, permitiendo que la corrupción y el abuso de poder proliferen sin ser detectados por el público (MDIF, 2019).
+- **Vuelo hacia la oligarquía:** La manipulación de la verdad y el debilitamiento del periodismo profesional empujan a la democracia hacia una forma de oligarquía autoritaria, alejándose de la condición de igualdad necesaria para el autogobierno (Nielsen, 2020).
